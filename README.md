@@ -1,5 +1,4 @@
 # design
-![](ic_launcher.png)
 
 Jeju Hackthon Project design repo
 
