@@ -1,6 +1,13 @@
 # design
 
+<img src='ic_launcher.png' width='80px'>
+
 Jeju Hackthon Project design repo
 
-<img src='BEAM_ProtoType.png' width='70px'>
-_desin by Lee yeajin_
+
+## License
+```
+The MIT License (MIT)
+
+Copyright (c) Lee yeajin
+```
